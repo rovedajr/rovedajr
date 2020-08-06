@@ -1,6 +1,6 @@
 ### Hi there 👋 🇬🇧
 
-This is my little collection of repos. Most of them are about HTML, CSS and JS but you can also find one or other Python repo around.
+This is my small collection of repos. Most of them are about HTML, CSS and JS but you can also find one or other Python repo around.
 
 I am currently working on front-end using Wordpress as the main technology.
 
