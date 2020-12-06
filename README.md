@@ -2,11 +2,9 @@
 
 This is my small collection of repos. Most of them are about HTML, CSS and JS but you can also find one or other Python repo around.
 
-I am currently working on front-end using Wordpress as the main technology.
+I am currently working on full stack using PHP and VueJS.
 
 Besides, I am learning React and Node at the [GrowDev starter program](https://growdev.com.br).
-
-I am also learning [VueJS](https://vuejs.org) by myself.
 
 You can catch me on jrovedajr\[at\]gmail.com
 
@@ -16,11 +14,9 @@ You can catch me on jrovedajr\[at\]gmail.com
 
 Essa é a minha pequena coleção de repositórios. A maioria deles sobre HTML, CSS e JS mas também dá para encontrar um que outro repositório de Python por aqui.
 
-No momento estou trabalhando com *front-end*, usando Wordpress como a principal tecnologia.
+No momento estou trabalhando como desenvolvedor *full stack*, usando PHP e VueJS.
 
 Além disso, estou aprendendo React e Node no [Programa Starter da GrowDev](https://growdev.com.br).
-
-Também estou aprendendo [VueJS](https://vuejs.org) por conta própria.
 
 Você me encontra em jrovedajr\[at\]gmail.com
 
