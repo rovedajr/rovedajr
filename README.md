@@ -2,7 +2,7 @@
 
 This is my small collection of repos. Most of them are about HTML, CSS and JS but you can also find one or other Python repo around.
 
-I am currently working on full stack using PHP and VueJS.
+I am currently working as a back-end developer, using NestJS with TypeScript.
 
 Besides, I am learning React and Node at the [GrowDev starter program](https://growdev.com.br).
 
