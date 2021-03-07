@@ -2,7 +2,7 @@
 
 This is my small collection of repos. Most of them are about HTML, CSS and JS but you can also find one or other Python repo around.
 
-I am currently working as a back-end developer, using NestJS with TypeScript.
+I am currently working as a back-end developer, using NestJS and TypeScript.
 
 Besides, I am learning React and Node at the [GrowDev starter program](https://growdev.com.br).
 
@@ -14,7 +14,7 @@ You can catch me on jrovedajr\[at\]gmail.com
 
 Essa é a minha pequena coleção de repositórios. A maioria deles sobre HTML, CSS e JS mas também dá para encontrar um que outro repositório de Python por aqui.
 
-No momento estou trabalhando como desenvolvedor *full stack*, usando PHP e VueJS.
+No momento estou trabalhando como desenvolvedor *back-end*, usando NestJS e TypeScript.
 
 Além disso, estou aprendendo React e Node no [Programa Starter da GrowDev](https://growdev.com.br).
 
